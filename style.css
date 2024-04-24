@@ -2,8 +2,28 @@
    width: 100%
 }
 
+.principal{
+  background-color: #CCCCCC;
+  padding color: 30 px;
+}
+
 .titulo principal{
-  padding-left: 20px;
+  padding-left: 30px;
 }
 
 .texto-centralizado
+
+
+
+
+
+
+
+
+
+
+
+ul{
+display: inline-block;
+vertical-align: top;
+}

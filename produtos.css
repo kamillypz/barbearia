@@ -33,36 +33,33 @@ nav a:hover{
   text-decoration: underline;
 }
 
-#banner{
+.banner{
   width: 100%;
 }
 
 .principal{
-  background-color: #CCCCCC;
-  padding: 30px;
+  background-color: #FEFEFE;
+  padding: 1em 0;
+  margin: 0 auto;
 }
 
 .titulo-principal{
-  padding-left: 20px;
- text-align: center; 
+  text-align: center;
+  font-size: 2em;
+  margin: 0 0 1em;
   
 }
 
-.texto-centralizado{
-  text-align: center;
+.principal p{
+ margin: 0 0 1em;  
 }
+
 
 p{
   text-align: center;
 }
 
-em strong{
-  color: red;
-}
 
-#missao{
-  font-size: 28px;
-}
 
 .beneficios{
   padding: 20px;

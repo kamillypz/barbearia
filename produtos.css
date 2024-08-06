@@ -80,3 +80,19 @@ ul{
 .imagem-beneficios{
   width: 50%;
 }
+.mapa{
+  padding:3em 0;
+  margin:0 auto;
+  width: 940px;
+}
+
+
+.mapa p{
+  margin: 0 0 2em;
+  text-align: center;
+}
+
+.mapa-conteudo{
+  width: 940px;
+  margin: 0 auto;
+}
